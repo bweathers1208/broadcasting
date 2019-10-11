@@ -13,7 +13,7 @@
   * Say your name and the title or a short summary of your talk at the beginning.
   * If the person asking a question doesn't have a microphone, **repeat the question before answering it.** This also helps you verify that you understood the question correctly.
   * Try to stay at the lectern so that you will be on camera. If you move away, take the microphone with you so that there will be audio.
-  * The microphone needs to be close to and pointed toward your mouth to work correctly.
+  * The microphone needs to be close to and pointed toward your mouth in order to work correctly.
 
 * _*After your talk*_:
   * If your talk was streamed, the broadcast will be available on [Twitch](https://www.twitch.tv/techlahoma/videos?filter=archives&sort=time) for 60 days. A Techlahoma volunteer will save the video as a [highlight](https://www.twitch.tv/techlahoma/videos?filter=highlights&sort=time) and export it to [YouTube](https://youtube.com/techlahoma). Please let an A/V volunteer know if you have any additions or corrections to make to the video descriptions, or if you don't want the video on Twitch or YouTube.
